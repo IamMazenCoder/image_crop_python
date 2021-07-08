@@ -3,7 +3,7 @@
 Image Crop application built using Python with 
 Pillow library which is lightweight and easy to use.
 
-![Preview Image Crop Python](./preview.png)
+![Preview Image Crop Python](./preview.jpg)
 
 ## Quick Start
 
